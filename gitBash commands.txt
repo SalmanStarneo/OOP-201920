@@ -1,0 +1,9 @@
+git remote -v//it shows what is the local repository upstream & Origin / Where it get files and where it sends them 
+
+git fetch upstream :-This Download the files from the upstream/location that you have set to get items from
+
+git merge upstream/master
+
+git push origin master :- send files to your Repository on GitHub from your machine/Local Repository
+
+git commit -m "a comment of changes written here"
